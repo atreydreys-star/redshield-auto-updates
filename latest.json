@@ -1,9 +1,9 @@
 {
   "package": "ru.vlad.redshieldauto",
-  "versionCode": 10,
-  "versionName": "0.9.1",
-  "apkUrl": "https://raw.githubusercontent.com/atreydreys-star/redshield-auto-updates/main/RedShield-Auto-0.9.1.apk",
-  "sha256": "b429bf82dc1ef95fedeb7a92e7539080859f7c4337d5f4ba2eaec32d94a1a175",
+  "versionCode": 11,
+  "versionName": "0.9.2",
+  "apkUrl": "https://raw.githubusercontent.com/atreydreys-star/redshield-auto-updates/main/RedShield-Auto-0.9.2.apk",
+  "sha256": "80ec8ec2f3662dd2b68544634ef427794507d4af1981637cc58c40c08ac9646b",
   "bytes": 70106,
-  "notes": "Wi-Fi: обычные страны — Латвия, Литва, Великобритания и Нидерланды. Мобильная сеть: отдельный список обходов БС. Автосмена при повторных сбоях по результатам реальных проверок. Восстановление после случайного отключения. Уведомления о новых версиях и готовый публичный канал обновлений. Настройки сохраняются."
+  "notes": "Исправлен режим Wi-Fi «По необходимости»: если Red Shield мешает проверить Wi-Fi напрямую, помощник кратко проверяет сеть без него. Если сайты работают — VPN на телефоне остаётся выключенным; если нет — возвращается.\n\nСохраняются обычные страны на Wi-Fi, обходы на мобильной сети, переподключение и уведомления об обновлениях."
 }

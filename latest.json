@@ -1,0 +1,9 @@
+{
+  "package": "ru.vlad.redshieldauto",
+  "versionCode": 10,
+  "versionName": "0.9.1",
+  "apkUrl": "https://raw.githubusercontent.com/atreydreys-star/redshield-auto-updates/main/RedShield-Auto-0.9.1.apk",
+  "sha256": "b429bf82dc1ef95fedeb7a92e7539080859f7c4337d5f4ba2eaec32d94a1a175",
+  "bytes": 70106,
+  "notes": "Wi-Fi: обычные страны — Латвия, Литва, Великобритания и Нидерланды. Мобильная сеть: отдельный список обходов БС. Автосмена при повторных сбоях по результатам реальных проверок. Восстановление после случайного отключения. Уведомления о новых версиях и готовый публичный канал обновлений. Настройки сохраняются."
+}

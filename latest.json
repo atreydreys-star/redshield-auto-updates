@@ -1,9 +1,9 @@
 {
   "package": "ru.vlad.redshieldauto",
-  "versionCode": 11,
-  "versionName": "0.9.2",
-  "apkUrl": "https://raw.githubusercontent.com/atreydreys-star/redshield-auto-updates/main/RedShield-Auto-0.9.2.apk",
-  "sha256": "80ec8ec2f3662dd2b68544634ef427794507d4af1981637cc58c40c08ac9646b",
-  "bytes": 70106,
-  "notes": "Исправлен режим Wi-Fi «По необходимости»: если Red Shield мешает проверить Wi-Fi напрямую, помощник кратко проверяет сеть без него. Если сайты работают — VPN на телефоне остаётся выключенным; если нет — возвращается.\n\nСохраняются обычные страны на Wi-Fi, обходы на мобильной сети, переподключение и уведомления об обновлениях."
+  "versionCode": 14,
+  "versionName": "0.9.5",
+  "apkUrl": "https://raw.githubusercontent.com/atreydreys-star/redshield-auto-updates/main/RedShield-Auto-0.9.5.apk",
+  "sha256": "37b60c13638d11a4fce8125c8b9f533d2b33b1151220349c3702b5bf2baaa31d",
+  "bytes": 78298,
+  "notes": "Ускорено включение мобильного VPN и добавлен подбор рабочего обхода по ответам YouTube и Discord. На главном экране появилась пошаговая настройка для разных телефонов Android. Настройки сохраняются при обновлении."
 }

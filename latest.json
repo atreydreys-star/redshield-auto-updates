@@ -1,9 +1,9 @@
 {
   "package": "ru.vlad.redshieldauto",
-  "versionCode": 23,
-  "versionName": "0.11.1",
-  "apkUrl": "https://raw.githubusercontent.com/atreydreys-star/redshield-auto-updates/main/RedShield-Auto-0.11.1.apk",
-  "sha256": "f5d3b1084b227ffc534a09143775c6289c9f88478f59c407be1d14879c4ca98d",
+  "versionCode": 24,
+  "versionName": "0.11.2",
+  "apkUrl": "https://raw.githubusercontent.com/atreydreys-star/redshield-auto-updates/main/RedShield-Auto-0.11.2.apk",
+  "sha256": "a03d589ca82567ddaa16c506aa6ee93e1e067aebb51f40ae4a47002f7b0e0308",
   "bytes": 746477,
-  "notes": "Передача помощника с главной вкладки и из раздела «Раздавать». Покажи QR-код, скопируй ссылку или отправь установочный APK через системное меню Android.\n"
+  "notes": "Один телефон может одновременно раздавать VPN двум устройствам с помощником. Подтверди каждое на раздающем телефоне. Приёмники с версией 0.11.1 совместимы.\n"
 }

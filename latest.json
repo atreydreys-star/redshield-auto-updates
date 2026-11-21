@@ -1,9 +1,9 @@
 {
   "package": "ru.vlad.redshieldauto",
-  "versionCode": 22,
-  "versionName": "0.11.0",
-  "apkUrl": "https://raw.githubusercontent.com/atreydreys-star/redshield-auto-updates/main/RedShield-Auto-0.11.0.apk",
-  "sha256": "3743af6d6b6839c215317a0140f736ea6a75eedb469e91bef9531814ae5ba8d6",
-  "bytes": 746412,
-  "notes": "На втором телефоне открой «Принимать» и выбери найденное устройство. На раздающем нажми «Разрешить». Для этого режима обнови оба телефона. Адрес и код доступны в параметрах для ручного подключения.\nВкладки и роли теперь можно переключать свайпами. Если телефон открыл поиск раньше раздающего, помощник повторит поиск сам.\n"
+  "versionCode": 23,
+  "versionName": "0.11.1",
+  "apkUrl": "https://raw.githubusercontent.com/atreydreys-star/redshield-auto-updates/main/RedShield-Auto-0.11.1.apk",
+  "sha256": "f5d3b1084b227ffc534a09143775c6289c9f88478f59c407be1d14879c4ca98d",
+  "bytes": 746477,
+  "notes": "Передача помощника с главной вкладки и из раздела «Раздавать». Покажи QR-код, скопируй ссылку или отправь установочный APK через системное меню Android.\n"
 }
